@@ -1,4 +1,5 @@
-# ITE306-Module20-Act3-1-Velasquez_Jewel
+# Printing Multiplication Table Of Your Given Number Using Python Flask
+ITE306-Module20-Act3-1-Velasquez_Jewel
 
 1. Run script.py
 2. Copy the url, and run it in the browser
